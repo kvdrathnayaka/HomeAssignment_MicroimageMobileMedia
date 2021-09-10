@@ -2,7 +2,6 @@
 
 ## In Windows
 
----
 1. Download and install [Git Windows](https://git-scm.com/download/win) on your Windows operating system.
 
 2. Open Git Bash terminal from the .sh file location and run the following command.
@@ -20,7 +19,6 @@ bash bashScript.sh
 
 ## In linux / UNIX
 
----
 1. Open the Terminal application on Linux or Unix where bashScript.sh file located.
 2. Set execute permission on your script using chmod command
 ```shell
