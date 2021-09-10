@@ -18,7 +18,7 @@ bash bashScript.sh
 * The bashScript.sh file should be double-clicked. The demonstration java program using the Factory Design Pattern will then run.
 
 
-##In linux / UNIX
+## In linux / UNIX
 
 ---
 1. Open the Terminal application on Linux or Unix where bashScript.sh file located.
