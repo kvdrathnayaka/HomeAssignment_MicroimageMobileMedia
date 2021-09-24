@@ -14,7 +14,7 @@ sh bashScript.sh
 ``` shell
 bash bashScript.sh
 ```
-* The bashScript.sh file should be double-clicked. The demonstration java program using the Factory Design Pattern will then run.
+* Or else double click the bashScript.sh file and the demonstration java program using the Factory Design Pattern will then run.
 
 
 ## In linux / UNIX
