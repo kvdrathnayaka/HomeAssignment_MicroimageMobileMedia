@@ -1,6 +1,6 @@
 public class AnimalFactory {
     // Build a getAnimal method to return the objects of animal types
-    public Animal getAnimal(String animalType){
+    protected Animal getAnimal(String animalType){
         if(animalType == null)
             return null;
         else if(animalType.equalsIgnoreCase("BEE"))
